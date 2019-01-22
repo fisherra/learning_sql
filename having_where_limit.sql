@@ -80,7 +80,8 @@ FROM
 ORDER BY salary DESC
 LIMIT 10;
 
-# expanding the output limit
+# limiting always goes at the end of the query
+
 
 
 
